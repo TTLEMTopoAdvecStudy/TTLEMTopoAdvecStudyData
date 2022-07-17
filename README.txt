@@ -30,4 +30,19 @@ and a contact dip of 30 degrees with contact advection rate vc = 0 mm/yr).
 Due to the large sizes of the output files, I have only included the last timestep for the initialization of
 each simulation set. These initialized landscapes and the scripts included can be used to rerun each scenario.
 
+In Sets 1-4,  the scenarios with contact dips of 90 degrees (9-11) can be run with the code 
+"Run_scenarios_unlimited_weak_zone.m."
+In Sets 1-4,  the scenarios with contact dips of 30 degrees (21-23) can be run with the code 
+"Run_scenarios_unlimited_weak_zone_Dip.m."
+
+In Sets 5-6,  the scenarios with contact dips of 90 degrees (9-11 and 13-15) can be run with the 
+code "Run_scenarios_unlimited_weak_zone_no_advec.m."
+In Sets 5-6,  the scenarios with contact dips of 30 degrees (21-23, 25-27, and 33-35) can be run 
+with the code "Run_scenarios_unlimited_weak_zone_no_advec_Dip.m."
+
+Just update the Scenario number within the codes mentioned above and ensure that the data for the initialized
+landscape (in a .mat file) is present within the Output folder (in the same directory as the code and Excel table).
+Within the Output folder, the .mat file should be in a folder called "Set#_Initialization," where # is replaced by 
+the set number. These scenarios can take a very long time to run.
+
 The edited TTLEM codes (which are required for these simulations) are included in the folder "Edited_TTLEM_Codes."
