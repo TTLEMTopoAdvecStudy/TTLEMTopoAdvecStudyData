@@ -1,7 +1,7 @@
 
 Original_location = pwd;
 
-Mapview_Fig_location = 'D:\Users\nmitch10\D_TTLEM_Sims_no_implCLF\Mapview_figures_April7';
+Mapview_Fig_location = 'D:\Users\USERNAME\D_TTLEM_Sims_no_implCLF\Mapview_figures_April7';
 
 % First, load the desired time step
 
