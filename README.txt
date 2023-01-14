@@ -1,7 +1,4 @@
-These data were used in the creation of the article "Topographic advection can enhance the 
-landscape transience caused by rock strength contrasts: implications for the for-reaching 
-effects of tectonic convergence," by Nate Mitchell and Adam Forte (Lousiana State University,
-Dept. of Geology and Geophysics).
+These data were used in the creation of the article "Tectonic advection of contacts enhances landscape transience," which is currently in review with Earth Surface Processes and Landforms.
 
 Each set of simulations has an Excel input table. Not all of the simulations listed in the tables
 were used in the article, however. Additionally, the set numbers do not match those in Table 1 
